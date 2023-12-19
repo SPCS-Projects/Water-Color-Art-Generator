@@ -19,3 +19,7 @@ If no arguments are provided it will use default settings
   
 ### Example
 python watercolor_art_generator.py --width 1200 --height 1800 -i 150 -d 70 -bd 2 -fd 4 -mins 15 -maxs 30   
+  
+![Example 1](https://github.com/SPCS-Projects/Water-Color-Art-Generator/blob/main/example_1.png)
+![Example 2](https://github.com/SPCS-Projects/Water-Color-Art-Generator/blob/main/example_2.png)
+![Example 3](https://github.com/SPCS-Projects/Water-Color-Art-Generator/blob/main/example_3.png)
